@@ -1,0 +1,2 @@
+# friesBotAi
+a simple ai
